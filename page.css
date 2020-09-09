@@ -1,0 +1,40 @@
+h1 {color : #0000CD }
+h2 { color: #FF6347}
+ul>li { color:#FF0000}
+span.DarkGray{ color:black}
+div { color: #8A2BE2 }
+
+div {text-align: center; }
+
+.linear-gradient {background: linear-gradient( rgb(47, 255, 82),rgb(135, 166, 222)); }
+
+aside {color : white;
+position: relative;
+right: 30px;
+bottom:20px;
+ }
+
+ #conteneur
+
+ { display: flex}
+
+ .element1 { 
+     float: left;
+     margin: 50px;
+ } 
+
+ .element2 { 
+    float: left;
+    margin: 50px;
+} 
+
+.element3 {
+    border-bottom-style: 50px;
+    float: right;
+    }
+
+.element4 {
+
+   margin-right: 200px;
+    
+}
